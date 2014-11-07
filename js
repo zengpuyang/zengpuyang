@@ -13,11 +13,11 @@
        junanj
        clearInterval(t)
 4.字符串截取
-    t='fggsg'
-    t.substr(1,2)
-    "gg"
+     t='fggsg'
+     t.substr(1,2)
+     "gg"
 5.分割数组
-    "2:3:4:5".split(":")	//将返回["2", "3", "4", "5"]  
+     "2:3:4:5".split(":")	//将返回["2", "3", "4", "5"]  
 6.二维数组定义
      var array_1 = new Array()
      array_1[0] = new Array('a','b','c')
